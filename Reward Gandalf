@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css"/>
+    <title>Reward Gandalf for Nicolas</title>
 
+</head>
+<body>
+
+    <h1> WANTED GANDALF</h1>
+
+    <div id="img_gandalf">
+        <div id="text">
+
+            <div id="reward">reward <span>1000</span><br>golden coins</div>
+            <div id="gandalf1">Gandalf</div>
+        </div>
+        <div id="gandalf2">Gandalf</div>
+    </div>
+
+        
+</body>
+</html>
